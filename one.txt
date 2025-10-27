@@ -1,2 +1,2 @@
 echo "Aditya Meshram"
-echo "test2"
+ech "test2"
